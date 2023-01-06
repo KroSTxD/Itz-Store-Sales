@@ -1,0 +1,14 @@
+{
+    "TOKEN": "COLOQUE O TOKEN AQUI",
+    "prefix":"!",
+    "access_token":"API DO MERCADO PAGO",
+    "nomebot":"prix",
+    "canalvoz":"1015614362083409987",
+    "cor":"#f4d03f",
+    "botao":"SECONDARY",
+    "logpublica":"1015614362083409983",
+    "canallogs":"1015614362083409984",
+    "catecarrinho":"1016848664834080788",
+    "cargovip":"993961009133932624",
+    "fotoembed":"https://media.discordapp.net/attachments/995285886088527973/995753767590969354/standard.gif"
+}
